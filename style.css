@@ -1,0 +1,64 @@
+body{
+
+  margin: 0;
+  background-color:#444444;
+  color: #fff;
+  font-family: 'Arial', sans-serif;
+  /* text-shadow: 1px 1px 2px #000000; */
+
+}
+
+
+.Header{
+  background-color:#2d2d2d;
+  display: flex;
+  align-items:center;
+  padding-left: 100px;
+}
+
+.Title{
+  color: #fff;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 5px;
+  font-family: 'Kanit', sans-serif;
+  text-decoration: none;
+}
+.Logo{
+  width:35px;
+  height:35px;
+
+}
+p{
+  padding: 15px;
+}
+
+h1{
+  padding: 15px;
+}
+
+
+a{
+  color: #E7AE00;
+  padding: 15px;
+}
+
+
+.NavBar{
+  /* font-family: 'Kanit', sans-serif; */
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+}
+.NavBar:hover{
+  color: #E7AE00;
+}
+
+.Title:hover{
+  /* color: #E7AE00; */
+}
+
+
+.BodyContainer{
+  padding-left: 100px;
+}
